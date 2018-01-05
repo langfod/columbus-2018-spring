@@ -59,7 +59,7 @@
 
 ### Activities
 
-- [Conditionals and User Input Practice Problems](./practice-problems.md)
+- [Conditionals and User Input Practice Problems](https://github.com/WeCanCodeIT/java-exercises/blob/master/fundamentals-practice-problems/conditionals.md)
 - Setup [CodingBatAccount](http://codingbat.com/java)
   - Work through Warmup-1 NON STRING PROBLEMS ONLY
 - Recommended Reading: Head First Java pages 11,13,20, Ch.1: Statements, looping and branching
@@ -84,7 +84,7 @@
 
 ### Activities
 
-- [Practice Problems and String Challenges](./strings.md)
+- [Practice Problems and String Challenges](https://github.com/WeCanCodeIT/java-exercises/blob/master/fundamentals-practice-problems/strings.md)
 - CodingBat Warmup-1 NOW YOU CAN DO STRING PROBLEMS : )
 - [Git Hub/ Git Bash Training](https://github.com/jlord/git-it-electron)
 - [Push your first Eclipse Project to Git Hub](https://github.com/WeCanCodeIT/java-resources/blob/master/git/feature-branches/push-project.md)
