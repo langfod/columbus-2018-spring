@@ -19,7 +19,8 @@
 
 - Join Slack
 - [Hello World Activities](https://github.com/WeCanCodeIT/java-exercises/blob/master/fundamentals-practice-problems/hello-world-activities.md)
-- Recommended reading: Head First Java pages xxvii,8-9 of Ch. 1 Anatomy of a class and the main method
+- Recommended reading:
+  - *Head First Java* pages xxvii,8-9 of Ch. 1 Anatomy of a class and the main method
 - [Want more practice?](https://www.w3resource.com/java-exercises/basic/index.php)
 
 ### References
@@ -38,7 +39,8 @@
 ### Activities
 
 - Continue practicing translating the small word problems from [in class slides #14 and #15](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/).
-- Recommended Reading: Head First Java pages 49-53 of Ch. 3 Know Your Variables, primitives and references
+- Recommended Reading:
+  - *Head First Java* pages 49-53 of Ch. 3 Know Your Variables, primitives and references
 - [Want more practice today? Try numbers 1, 2 and 3. You can hard code the variable values instead of worrying about user input](https://www.w3resource.com/java-exercises/datatypes/index.php)
 
 
@@ -61,8 +63,9 @@
 
 - [Conditionals and User Input Practice Problems](https://github.com/WeCanCodeIT/java-exercises/blob/master/fundamentals-practice-problems/conditionals.md)
 - Setup [CodingBatAccount](http://codingbat.com/java)
-  - Work through Warmup-1 NON STRING PROBLEMS ONLY
-- Recommended Reading: Head First Java pages 11,13,20, Ch.1: Statements, looping and branching
+  - Work through Warmup-1 (non String problems only)
+- Recommended Reading:
+  - *Head First Java* pages 11,13,20, Ch.1: Statements, looping and branching
 
 ### References
 
@@ -85,7 +88,7 @@
 ### Activities
 
 - [Practice Problems and String Challenges](https://github.com/WeCanCodeIT/java-exercises/blob/master/fundamentals-practice-problems/strings.md)
-- CodingBat Warmup-1 NOW YOU CAN DO STRING PROBLEMS : )
+- CodingBat Warmup-1 (String problems)
 - [Git Hub/ Git Bash Training](https://github.com/jlord/git-it-electron)
 - [Push your first Eclipse Project to Git Hub](https://github.com/WeCanCodeIT/java-resources/blob/master/git/feature-branches/push-project.md)
 
