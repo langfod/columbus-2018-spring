@@ -19,7 +19,7 @@
 
 - Join Slack
 - [Hello World Activities](https://github.com/WeCanCodeIT/java-exercises/blob/master/fundamentals-practice-problems/hello-world-activities.md)
-- Recommended reading:
+- Recommended Reading:
   - *Head First Java* pages xxvii,8-9 of Ch. 1 Anatomy of a class and the main method
 - [Want more practice?](https://www.w3resource.com/java-exercises/basic/index.php)
 
