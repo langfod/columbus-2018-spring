@@ -1,4 +1,4 @@
-# columbus-2018-winter
+# columbus-2018-spring
 
 Welcome to this Full Time Java Full Stack Coding Bootcamp running from Jan 16 - April 20.
 
