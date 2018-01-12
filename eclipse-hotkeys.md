@@ -1,6 +1,6 @@
 # Eclipse Hotkeys
 
-**Guys, shortcuts are the wave of the future.**
+**Folx, shortcuts are the wave of the future.**
 
 **Coding will be SO. MUCH. FASTERRRR.**
 
