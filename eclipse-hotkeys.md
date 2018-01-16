@@ -12,6 +12,8 @@ Most of these work in other apps, too.
 
 task | command
 -----| -------
+Zoom In | Ctrl ++
+Zoom Out | Ctrl --
 Copy | Ctrl + C
 Paste | Ctrl + V
 Cut (Copy and Delete) | Ctrl + X
